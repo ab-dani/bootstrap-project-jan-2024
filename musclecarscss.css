@@ -1,0 +1,61 @@
+body {
+  body {
+    width: auto;
+    margin: 5%;
+  }
+}
+
+div {
+  flex-direction: column;
+  width: 20%;
+  float: left;
+  margin: 10px;
+  padding: 10px;
+  background-color: brown;
+  gap: 10px;
+}
+
+#navcars {
+  display: flex;
+  color: blue;
+  flex-direction: column;
+}
+
+li {
+  list-style: none;
+  float: right;
+  justify-content: space-between;
+  margin: 10px;
+}
+
+ul {
+  float: left;
+}
+
+#Home {
+  float: left;
+  background-color: brown;
+}
+
+
+#ChevHead{
+font-family: 'Fugaz One', sans-serif;
+}
+#FordHead {
+font-family: 'Fugaz One', sans-serif;
+}
+#PontHead {
+font-family: 'Fugaz One', sans-serif;
+}
+#DodHead {
+font-family: 'Fugaz One', sans-serif;
+}
+#BuiHead{
+font-family: 'Fugaz One', sans-serif;
+}
+#OldHead {
+font-family: 'Fugaz One', sans-serif;
+}
+#PlyHead {
+  font-family: 'Fugaz One', sans-serif;
+}

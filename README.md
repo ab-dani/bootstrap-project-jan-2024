@@ -1,36 +1,30 @@
-# Bootstrap Project
-
-This is a website built with Bootstrap. It demonstrates Bootstrap Components and Utilities like Card, Grid, List-Group, and Buttons.
+# Basic HTML Website
 
 ## About
 
-This is a website about...
+This is a website about..
 
-It contains three pages:
+In contains three pages:
 
-* index.html - the home page
-* about.html - the about me page
-* ______.html - _________ 
+* The Home page at index.html
+* The ____ page at _____.html
+* The ____ page at _____.html
 
+It will contain a variety of HTML tags and content to describe the topic.
 
+The tags will include headers, paragraph, lists, images, anchors, and tables.
 
 ## Built With
 
 - HTML
-- CSS
-- Bootstrap
-- JavaScript
-
 
 ## Roadmap
 
-- [x] index.html
-- [ ] about.html
-- [ ] Bootstrap List Group
-- [ ] Bootstrap Card Component
-- [ ] Bootstrap Grid
-- [ ] ______________
-- [ ] Bootstrap Utility Class
+- [ ] head, title, and body tags
+- [ ] Headers (h1, h2) and Paragraph p
+- [ ] Home Page
+- [ ] Page 2 about...
+- [ ] Page 3 about...
 
 
 ## Contact
@@ -39,6 +33,7 @@ Author:
 
 ## Acknowledgements
 
-- https://getbootstrap.com/
-- https://www.w3schools.com/cssref/sel_class.php
-- https://www.w3schools.com/js/js_functions.asp
+- [W3 Schools HTML Basics](https://www.w3schools.com/html/html_basic.asp)
+- [W3 Schools P tag](https://www.w3schools.com/tags/tag_p.asp)
+- [Semantic HTML](https://www.semrush.com/blog/semantic-html5-guide/)
+- [W3 Schools STRONG tag](https://www.w3schools.com/tags/tag_strong.asp)
