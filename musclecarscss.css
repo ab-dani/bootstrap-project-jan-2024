@@ -1,91 +1,64 @@
 body {
-  body {
-    width: auto;
-    margin: 5%;
-  }
+  margin: 5%;
 }
 
 div {
-  flex-direction: row;
-  float: left;
-   
-  gap: 10px;
+  gap: 40px;
 }
 
 #navcars {
-  display: flex;
-  color: blue;
-  float: right;
-  flex-direction: row;
+  color: #0d0d0d;
 }
 
 li {
   list-style: none;
-  
-  
-   
-}
-
-ul {
-  float: left;
 }
 
 #Home {
-  float: left;
-   brown;
-}
-
-#navcars ul li {
   float: left;
 }
 
 #ChevHead {
   font-family: "Fugaz One", sans-serif;
-  color: #A69C94;
+  color: #a69c94;
 }
 #FordHead {
   font-family: "Fugaz One", sans-serif;
-  color: #A69C94;
+  color: #a69c94;
 }
 #PontHead {
   font-family: "Fugaz One", sans-serif;
-  color: #A69C94;
+  color: #a69c94;
 }
 #DodHead {
   font-family: "Fugaz One", sans-serif;
-  color: #A69C94;
+  color: #a69c94;
 }
 #BuiHead {
   font-family: "Fugaz One", sans-serif;
-  color: #A69C94;
+  color: #a69c94;
 }
 #OldHead {
   font-family: "Fugaz One", sans-serif;
-  color: #A69C94;
+  color: #a69c94;
 }
 #PlyHead {
   font-family: "Fugaz One", sans-serif;
-  color: #A69C94;
+  color: #a69c94;
 }
 
-
-
 p {
-  color: #A69C94;
-  float: left;
+  color: #a69c94;
 }
 
 h2 {
-  color: #A69C94;
-  
+  color: #a69c94;
 }
 
-
-
-div  {
-  display: flex;
-  float: left;
-  padding: 30px;
-  
+.card-body {
+  background-color: beige;
 }
 
+p.card-title {
+  color: #a69c94;
+}
